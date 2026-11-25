@@ -1,0 +1,6 @@
+*.xlsx
+*.xls
+*.csv
+Backups/
+CRM-Backups/
+.DS_Store
